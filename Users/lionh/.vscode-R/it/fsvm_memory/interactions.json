@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": 1750674369.5643563,
+    "user_input": "Trump",
+    "fsvm_response": "CHAOS_542",
+    "tension": 0.8698951244354248
+  },
+  {
+    "timestamp": 1750674370.2769718,
+    "user_input": "Trump",
+    "fsvm_response": "CHAOS_552",
+    "tension": 0.869649486541748
+  },
+  {
+    "timestamp": 1750674370.8277621,
+    "user_input": "Trump",
+    "fsvm_response": "CHAOS_884",
+    "tension": 0.8691626739501953
+  },
+  {
+    "timestamp": 1750674371.3444567,
+    "user_input": "Trump",
+    "fsvm_response": "CHAOS_266",
+    "tension": 0.86846435546875
+  }
+]
