@@ -1,0 +1,42 @@
+{
+  "document_number": "FS 769/03/2016",
+  "issue_date": "2016-03-15",
+  "sale_date": "2016-03-15",
+  "buyer": {
+    "name": "Comel Tomasz Hinz",
+    "vat_id": "842-104-29-80",
+    "address": "Szewska 11, 77-200 Miastko"
+  },
+  "seller": {
+    "name": "TOP Komputer S.C.",
+    "vat_id": "725-18-29-509",
+    "address": "Andrzeja Struga 40, 90-501 Łódź"
+  },
+  "invoice_line_items": [
+    {
+      "name": "Klawiatura do Asus K50, F52, N51 z ramką",
+      "quantity": 1,
+      "unit_price": 39.0,
+      "net_value": 31.71,
+      "tax_amount": 7.29,
+      "gross_value": 39.0,
+      "tax_rate": "23%"
+    },
+    {
+      "name": "Przygotowanie przesyłki",
+      "quantity": 1,
+      "unit_price": 12.0,
+      "net_value": 9.76,
+      "tax_amount": 2.24,
+      "gross_value": 12.0,
+      "tax_rate": "23%"
+    }
+  ],
+  "summary": {
+    "total_net": 41.46,
+    "vat": 9.54,
+    "total_gross": 51.0
+  },
+  "seller_bank_account": null,
+  "order_number": "ZK 1068/2016"
+}

@@ -1,0 +1,33 @@
+{
+  "document_number": "FV-321000/2016/03/02108",
+  "issue_date": "2016-03-04",
+  "sale_date": "2016-03-04",
+  "buyer": {
+    "name": "COMEL TOMASZ HINZ",
+    "vat_id": "842-104-29-80",
+    "address": "Szewska 11, 77-200 Miastko"
+  },
+  "seller": {
+    "name": "Komputronik S.A.",
+    "vat_id": "972-09-02-729",
+    "address": "ul. Wołczyńska 37, 60-003 Poznań"
+  },
+  "invoice_line_items": [
+    {
+      "name": "Komputronik Pro DH-709 SFF [303] [i3-4170 | RAM: 4GB | SSD: 120GB | Win 10 Pro]",
+      "quantity": 1,
+      "unit_price": 1594.74,
+      "net_value": 1594.74,
+      "tax_amount": 366.79,
+      "gross_value": 1961.53,
+      "tax_rate": "23%"
+    }
+  ],
+  "summary": {
+    "total_net": 1594.74,
+    "vat": 366.79,
+    "total_gross": 1961.53
+  },
+  "seller_bank_account": "08 1090 0004 8545 0000 0010 6967",
+  "order_number": "HH146844/2016"
+}

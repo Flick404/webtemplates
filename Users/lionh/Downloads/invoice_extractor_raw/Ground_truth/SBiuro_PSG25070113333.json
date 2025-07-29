@@ -1,0 +1,42 @@
+{
+  "document_number": "111592020",
+  "issue_date": "2023-02-24",
+  "sale_date": "2023-02-24",
+  "buyer": {
+    "name": "Tomasz Hinz Comel",
+    "vat_id": "8421042980",
+    "address": "Szewska 11, 77-200 Miastko, Polska"
+  },
+  "seller": {
+    "name": "Senetic S.A.",
+    "vat_id": "6342709934",
+    "address": "Kosciuszki 227, 40-600 Katowice, Polska"
+  },
+  "invoice_line_items": [
+    {
+      "name": "Ubiquiti 5 GHz LiteBeam AC, Gen2",
+      "quantity": 3,
+      "unit_price": 333.0,
+      "net_value": 999.0,
+      "tax_amount": 229.77,
+      "gross_value": 1228.77,
+      "tax_rate": "23%"
+    },
+    {
+      "name": "Transport i obsługa",
+      "quantity": 1,
+      "unit_price": 16.0,
+      "net_value": 16.0,
+      "tax_amount": 3.68,
+      "gross_value": 19.68,
+      "tax_rate": "23%"
+    }
+  ],
+  "summary": {
+    "total_net": 1015.0,
+    "vat": 233.45,
+    "total_gross": 1248.45
+  },
+  "seller_bank_account": "97103019997716000011211508",
+  "order_number": "112944811"
+}

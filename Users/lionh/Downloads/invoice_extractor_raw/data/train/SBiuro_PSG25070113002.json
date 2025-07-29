@@ -1,0 +1,33 @@
+{
+  "document_number": "106068755",
+  "issue_date": "2022-12-27",
+  "sale_date": "2022-12-27",
+  "buyer": {
+    "name": "TOMASZ HINZ COMEL",
+    "vat_id": "842-104-29-80",
+    "address": "ul. Szewska 11, 77-200 Miastko"
+  },
+  "seller": {
+    "name": "ALSO Polska Sp. z o.o.",
+    "vat_id": "527-272-68-25",
+    "address": "ul. Domaniewska 14, 02-672 Warszawa"
+  },
+  "invoice_line_items": [
+    {
+      "name": "DELL V5410 i5-11300H 8GB 512GB SSD W11P (N1445VN5410EMEA01_2205)",
+      "quantity": 1,
+      "unit_price": 3370.83,
+      "net_value": 3370.83,
+      "tax_amount": 775.29,
+      "gross_value": 4146.12,
+      "tax_rate": "23%"
+    }
+  ],
+  "summary": {
+    "total_net": 3370.83,
+    "vat": 775.29,
+    "total_gross": 4146.12
+  },
+  "seller_bank_account": null,
+  "order_number": "7051575273"
+}

@@ -1,0 +1,33 @@
+{
+  "document_number": "30/1/2023",
+  "issue_date": "2023-01-03",
+  "sale_date": "2022-12-29",
+  "buyer": {
+    "name": "Comel Tomasz Hinz",
+    "vat_id": "8421042980",
+    "address": "Szewska 11, 77-200 Miastko, Polska"
+  },
+  "seller": {
+    "name": "BIURFAN WOJCIECH KUNICKI",
+    "vat_id": "7221318885",
+    "address": "ul. Elewatorska 29, 15-620 Białystok"
+  },
+  "invoice_line_items": [
+    {
+      "name": "Niszczarka papieru dokumentów CD Fellowes 92CS",
+      "quantity": 1,
+      "unit_price": 949.0,
+      "net_value": 771.54,
+      "tax_amount": 177.46,
+      "gross_value": 949.0,
+      "tax_rate": "23%"
+    }
+  ],
+  "summary": {
+    "total_net": 771.54,
+    "vat": 177.46,
+    "total_gross": 949.0
+  },
+  "seller_bank_account": "27 1140 1775 0000 2375 4200 1001",
+  "order_number": null
+}

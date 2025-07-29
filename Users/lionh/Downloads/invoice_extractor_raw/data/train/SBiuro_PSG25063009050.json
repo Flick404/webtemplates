@@ -1,0 +1,33 @@
+{
+  "document_number": "19/01/E/2016",
+  "issue_date": "2016-01-25",
+  "sale_date": "2016-01-25",
+  "buyer": {
+    "name": "COMEL",
+    "vat_id": "842-104-29-80",
+    "address": "Szewska 11, 77-200 Miastko, Polska"
+  },
+  "seller": {
+    "name": "ETI ROBERT HINZ",
+    "vat_id": "583-152-85-74",
+    "address": "WYBICKIEGO 9/64, 77-200 MIASTKO, Polska"
+  },
+  "invoice_line_items": [
+    {
+      "name": "KONSULTACJE POLSKA GRUDZIEŃ 2015",
+      "quantity": 1,
+      "unit_price": 2980.0,
+      "net_value": 2980.0,
+      "tax_amount": 685.4,
+      "gross_value": 3665.4,
+      "tax_rate": "23%"
+    }
+  ],
+  "summary": {
+    "total_net": 2980.0,
+    "vat": 685.4,
+    "total_gross": 3665.4
+  },
+  "seller_bank_account": "56 2490 0005 0000 4500 6726 6542",
+  "order_number": null
+}

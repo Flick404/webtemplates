@@ -1,0 +1,33 @@
+{
+  "document_number": "E2016/02/006",
+  "issue_date": "2016-02-16",
+  "sale_date": "2016-02-16",
+  "buyer": {
+    "name": "Comel Tomasz Hinz",
+    "vat_id": "842-104-29-80",
+    "address": "77-200 Miastko, ul. Szewska 11"
+  },
+  "seller": {
+    "name": "VERSIM SA",
+    "vat_id": "779-22-61-859",
+    "address": "60-348 Poznań, ul. Skarbka 36"
+  },
+  "invoice_line_items": [
+    {
+      "name": "16519 - Summit X440-24tDC Serial Numbers: 1450N-42440",
+      "quantity": 1,
+      "unit_price": 5148.34,
+      "net_value": 5148.34,
+      "tax_amount": 1184.12,
+      "gross_value": 6332.46,
+      "tax_rate": "23%"
+    }
+  ],
+  "summary": {
+    "total_net": 5148.34,
+    "vat": 1184.12,
+    "total_gross": 6332.46
+  },
+  "seller_bank_account": "59 2490 0005 0000 4530 5906 5230",
+  "order_number": null
+}

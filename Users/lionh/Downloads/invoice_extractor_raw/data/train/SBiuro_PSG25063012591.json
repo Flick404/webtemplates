@@ -1,0 +1,42 @@
+{
+  "document_number": "10525/06/17",
+  "issue_date": "2017-06-12",
+  "sale_date": "2017-06-12",
+  "buyer": {
+    "name": "Comel Tomasz Hinz",
+    "vat_id": "8421042980",
+    "address": "Szewska 11, 77-200 Miastko"
+  },
+  "seller": {
+    "name": "BLACKTONER.PL Monika Knap",
+    "vat_id": "7731802858",
+    "address": "ul. Barlickiego 35, 97-200 Tomaszów Mazowiecki"
+  },
+  "invoice_line_items": [
+    {
+      "name": "Tusze HP 301 XL + HP 301 DJ 1050 2050 3050 1000 FV",
+      "quantity": 1,
+      "unit_price": 31.14,
+      "net_value": 31.14,
+      "tax_amount": 7.16,
+      "gross_value": 38.3,
+      "tax_rate": "23%"
+    },
+    {
+      "name": "Koszt wysyłki",
+      "quantity": 1,
+      "unit_price": 11.37,
+      "net_value": 11.37,
+      "tax_amount": 2.62,
+      "gross_value": 13.99,
+      "tax_rate": "23%"
+    }
+  ],
+  "summary": {
+    "total_net": 42.51,
+    "vat": 9.78,
+    "total_gross": 52.29
+  },
+  "seller_bank_account": "64114020040000350274834207",
+  "order_number": null
+}

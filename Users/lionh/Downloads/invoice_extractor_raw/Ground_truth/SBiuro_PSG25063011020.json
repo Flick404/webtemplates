@@ -1,0 +1,42 @@
+{
+  "document_number": "116/2016",
+  "issue_date": "2016-03-20",
+  "sale_date": "2016-03-20",
+  "buyer": {
+    "name": "COMEL - TELEKOMUNIKACJA I INFORMATYKA",
+    "vat_id": "842-104-29-80",
+    "address": "SZEWSKA 11, 77-200 MIASTKO"
+  },
+  "seller": {
+    "name": "Kolejowe Zakłady Łączności Sp. z o.o.",
+    "vat_id": "967-02-80-087",
+    "address": "ul. Ludwikowo 1, 85-502 Bydgoszcz"
+  },
+  "invoice_line_items": [
+    {
+      "name": "ROLKA TERM. 80X150 GRAMAT. 90G",
+      "quantity": 20,
+      "unit_price": 35.0,
+      "net_value": 700.0,
+      "tax_amount": 161.0,
+      "gross_value": 861.0,
+      "tax_rate": "23%"
+    },
+    {
+      "name": "KOSZTY WYSYŁKI",
+      "quantity": 1,
+      "unit_price": 40.0,
+      "net_value": 40.0,
+      "tax_amount": 9.2,
+      "gross_value": 49.2,
+      "tax_rate": "23%"
+    }
+  ],
+  "summary": {
+    "total_net": 740.0,
+    "vat": 170.2,
+    "total_gross": 910.2
+  },
+  "seller_bank_account": "35 1090 1072 0000 0001 2100 1267",
+  "order_number": null
+}

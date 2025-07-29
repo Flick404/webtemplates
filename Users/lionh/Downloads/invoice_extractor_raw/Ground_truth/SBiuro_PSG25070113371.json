@@ -1,0 +1,42 @@
+{
+  "document_number": "WW/V/2023/00863",
+  "issue_date": "2023-01-31",
+  "sale_date": "2023-01-31",
+  "buyer": {
+    "name": "COMEL Tomasz Hinz",
+    "vat_id": "8421042980",
+    "address": "ul. Szewska 11, 77-200 Miastko"
+  },
+  "seller": {
+    "name": "ASSMANN Distribution Sp. z o.o.",
+    "vat_id": "8951883569",
+    "address": "ul. Szczecińska 19, 54-517 Wrocław"
+  },
+  "invoice_line_items": [
+    {
+      "name": "Kabel instalacyjny DIGITUS kat.6A, S/FTP, Eca, AWG 23/1, LSOH, 500m, niebieski szpula",
+      "quantity": 3,
+      "unit_price": 1100.0,
+      "net_value": 3300.0,
+      "tax_amount": 759.0,
+      "gross_value": 4059.0,
+      "tax_rate": "23%"
+    },
+    {
+      "name": "koszty transportu/freight cost",
+      "quantity": 1,
+      "unit_price": 40.0,
+      "net_value": 40.0,
+      "tax_amount": 9.2,
+      "gross_value": 49.2,
+      "tax_rate": "23%"
+    }
+  ],
+  "summary": {
+    "total_net": 3340.0,
+    "vat": 768.2,
+    "total_gross": 4108.2
+  },
+  "seller_bank_account": "PL97 1750 1064 0000 0000 0922 1077",
+  "order_number": "WZ/2023/00963"
+}

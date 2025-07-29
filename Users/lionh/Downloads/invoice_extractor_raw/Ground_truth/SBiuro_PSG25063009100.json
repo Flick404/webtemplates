@@ -1,0 +1,33 @@
+{
+  "document_number": "8/2016",
+  "issue_date": "2016-01-31",
+  "sale_date": "2016-01-31",
+  "buyer": {
+    "name": "COMEL TOMASZ HINZ",
+    "vat_id": "8421042980",
+    "address": "ul. Szewska 11, 77-200 Miastko"
+  },
+  "seller": {
+    "name": "ZAKŁAD USŁUGOWY MARGON",
+    "vat_id": "8421257953",
+    "address": "ul. Gen. Wybickiego 40/16, 77-200 Miastko"
+  },
+  "invoice_line_items": [
+    {
+      "name": "WYKONYWANIE CZYNNOŚCI SŁUŻBY BHP",
+      "quantity": 1.0,
+      "unit_price": 160.0,
+      "net_value": 160.0,
+      "tax_amount": 36.8,
+      "gross_value": 196.8,
+      "tax_rate": "23%"
+    }
+  ],
+  "summary": {
+    "total_net": 160.0,
+    "vat": 36.8,
+    "total_gross": 196.8
+  },
+  "seller_bank_account": "54 9321 0001 0041 3204 2000 0010",
+  "order_number": null
+}

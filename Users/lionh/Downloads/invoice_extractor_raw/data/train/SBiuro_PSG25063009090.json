@@ -1,0 +1,42 @@
+{
+  "document_number": "4394316-20160131-2-1-F-M",
+  "issue_date": "2016-01-31",
+  "sale_date": "2016-01-31",
+  "buyer": {
+    "name": "Tomasz Hinz COMEL",
+    "vat_id": "842-104-29-80",
+    "address": "Szewska 11, 77-200 Miastko, POLAND"
+  },
+  "seller": {
+    "name": "PaySquare SE Spółka Europejska Oddział w Polsce",
+    "vat_id": "1080016238",
+    "address": "ul. Puławska 182, 02-670 Warszawa"
+  },
+  "invoice_line_items": [
+    {
+      "name": "Opłata za trx",
+      "quantity": 30,
+      "unit_price": 0.93,
+      "net_value": 27.98,
+      "tax_amount": 0.0,
+      "gross_value": 27.98,
+      "tax_rate": "ZW"
+    },
+    {
+      "name": "Mies. Staw. Ryczałt",
+      "quantity": 1,
+      "unit_price": 49.0,
+      "net_value": 49.0,
+      "tax_amount": 11.27,
+      "gross_value": 60.27,
+      "tax_rate": "23%"
+    }
+  ],
+  "summary": {
+    "total_net": 76.98,
+    "vat": 11.27,
+    "total_gross": 88.25
+  },
+  "seller_bank_account": null,
+  "order_number": null
+}

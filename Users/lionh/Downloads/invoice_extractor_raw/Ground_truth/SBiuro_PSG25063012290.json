@@ -1,0 +1,33 @@
+{
+  "document_number": "16921",
+  "issue_date": "2017-03-31",
+  "sale_date": "2017-03-31",
+  "buyer": {
+    "name": "Comel - Telekomunikacja i Informatyka Tomasz Hinz",
+    "vat_id": "8421042980",
+    "address": "ul. Szewska 11, 77200 Miastko, Poland"
+  },
+  "seller": {
+    "name": "NetTech Trading Ltd",
+    "vat_id": "DE262639044",
+    "address": "Wilhelm-von-Siemens-Str. 14, 12277 Berlin, Germany"
+  },
+  "invoice_line_items": [
+    {
+      "name": "Cisco WS-X4005 - ref.",
+      "quantity": 2,
+      "unit_price": 50.0,
+      "net_value": 100.0,
+      "tax_amount": 0.0,
+      "gross_value": 100.0,
+      "tax_rate": "0%"
+    }
+  ],
+  "summary": {
+    "total_net": 100.0,
+    "vat": 0.0,
+    "total_gross": 100.0
+  },
+  "seller_bank_account": "DE16100100100005518109",
+  "order_number": null
+}

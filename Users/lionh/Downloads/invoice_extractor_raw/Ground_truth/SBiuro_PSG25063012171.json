@@ -1,0 +1,42 @@
+{
+  "document_number": "54940",
+  "issue_date": "2017-03-20",
+  "sale_date": "2017-03-20",
+  "buyer": {
+    "name": "Comel Tomasz Hinz",
+    "vat_id": null,
+    "address": "Szewska 11, 77-200 Miastko, POLAND"
+  },
+  "seller": {
+    "name": "Continuation Networks Ltd",
+    "vat_id": null,
+    "address": "Unit 6, Tanners Yard, London Road, Bagshot, Surrey, GU19 5HD, UK"
+  },
+  "invoice_line_items": [
+    {
+      "name": "GLC-SX-MMD",
+      "quantity": 20,
+      "unit_price": 70.0,
+      "net_value": 1400.0,
+      "tax_amount": 0.0,
+      "gross_value": 1400.0,
+      "tax_rate": "0%"
+    },
+    {
+      "name": "Delivery",
+      "quantity": 1,
+      "unit_price": 23.5,
+      "net_value": 23.5,
+      "tax_amount": 0.0,
+      "gross_value": 23.5,
+      "tax_rate": "0%"
+    }
+  ],
+  "summary": {
+    "total_net": 1423.5,
+    "vat": 0.0,
+    "total_gross": 1423.5
+  },
+  "seller_bank_account": "GB14 LOYD 3095 3611 4963 01",
+  "order_number": "138/CIS/03/2017"
+}

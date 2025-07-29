@@ -1,0 +1,42 @@
+{
+  "document_number": "FS-927/16",
+  "issue_date": "2016-02-12",
+  "sale_date": "2016-02-12",
+  "buyer": {
+    "name": "COMEL TOMASZ HINZ",
+    "vat_id": "842-104-29-80",
+    "address": "Szewska 11, 77-200 Miastko"
+  },
+  "seller": {
+    "name": "Miwi-Urmet Spółka z o.o.",
+    "vat_id": "726-000-02-88",
+    "address": "Pojezierska 90A, 91-341 Łódź"
+  },
+  "invoice_line_items": [
+    {
+      "name": "ZESTAW VIDEO KOLOR DLA 1 UŻYTK. AIKO/MIKRA",
+      "quantity": 1,
+      "unit_price": 1390.0,
+      "net_value": 1112.0,
+      "tax_amount": 255.76,
+      "gross_value": 1367.76,
+      "tax_rate": "23%"
+    },
+    {
+      "name": "Usługa transportowa",
+      "quantity": 1,
+      "unit_price": 18.0,
+      "net_value": 18.0,
+      "tax_amount": 4.14,
+      "gross_value": 22.14,
+      "tax_rate": "23%"
+    }
+  ],
+  "summary": {
+    "total_net": 1130.0,
+    "vat": 259.9,
+    "total_gross": 1389.9
+  },
+  "seller_bank_account": "64103012050000000054205201",
+  "order_number": "ZS-176/16/DOMOF"
+}

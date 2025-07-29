@@ -1,0 +1,33 @@
+{
+  "document_number": "13/MAG/2016",
+  "issue_date": "2016-02-09",
+  "sale_date": "2016-02-09",
+  "buyer": {
+    "name": "Comel Tomasz Hinz",
+    "vat_id": "842-104-29-80",
+    "address": "Szewska 11, 77-200 Miastko"
+  },
+  "seller": {
+    "name": "Pomerania Services Group Spółka z ograniczoną odpowiedzialnością",
+    "vat_id": "842-177-13-02",
+    "address": "Koszalińska 22, 77-200 Miastko"
+  },
+  "invoice_line_items": [
+    {
+      "name": "iE-2000-4TS-G-B",
+      "quantity": 1,
+      "unit_price": 2800.0,
+      "net_value": 2800.0,
+      "tax_amount": 644.0,
+      "gross_value": 3444.0,
+      "tax_rate": "23%"
+    }
+  ],
+  "summary": {
+    "total_net": 2800.0,
+    "vat": 644.0,
+    "total_gross": 3444.0
+  },
+  "seller_bank_account": "60124057901111001058603962",
+  "order_number": null
+}

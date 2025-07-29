@@ -1,0 +1,42 @@
+{
+  "document_number": "SI320618",
+  "issue_date": "2017-06-06",
+  "sale_date": "2017-06-06",
+  "buyer": {
+    "name": "COMEL TOMASZ HINZ",
+    "vat_id": "8421042980",
+    "address": "SZEWSKA 11, MIASTKO, 77-200, POLAND"
+  },
+  "seller": {
+    "name": "euro simm",
+    "vat_id": "GB628707714",
+    "address": null
+  },
+  "invoice_line_items": [
+    {
+      "name": "Catalyst 2960L 48 10/100/1000 SFCW2050A5GV",
+      "quantity": 1,
+      "unit_price": 1120.0,
+      "net_value": 1120.0,
+      "tax_amount": 0.0,
+      "gross_value": 1120.0,
+      "tax_rate": "0%"
+    },
+    {
+      "name": "Carriage Charge",
+      "quantity": 1,
+      "unit_price": 10.0,
+      "net_value": 10.0,
+      "tax_amount": 0.0,
+      "gross_value": 10.0,
+      "tax_rate": "0%"
+    }
+  ],
+  "summary": {
+    "total_net": 1130.0,
+    "vat": 0.0,
+    "total_gross": 1130.0
+  },
+  "seller_bank_account": "GB07MIDL40051574813337",
+  "order_number": "277/CIS/06/2017"
+}

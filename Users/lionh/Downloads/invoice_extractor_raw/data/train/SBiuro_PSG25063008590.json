@@ -1,0 +1,33 @@
+{
+  "document_number": "F/SZ/KOSZALIN/01/16/0015",
+  "issue_date": "2016-01-20",
+  "sale_date": "2016-01-20",
+  "buyer": {
+    "name": "COMEL - Tomasz Hinz",
+    "vat_id": "842-104-29-80",
+    "address": "ul. Szewska 11, 77-200 Miastko"
+  },
+  "seller": {
+    "name": "Stowarzyszenie Księgowych w Polsce Zarząd Główny w Warszawie Oddział Okręgowy w Koszalinie",
+    "vat_id": "526-030-79-56",
+    "address": "ul. Zwycięstwa 148, 75-613 Koszalin"
+  },
+  "invoice_line_items": [
+    {
+      "name": "00165/12 - PIT i CIT – Zmiany w podatku dochodowym od osób fizycznych na 2016r. oraz PŁATNIK",
+      "quantity": 1,
+      "unit_price": 294.0,
+      "net_value": 294.0,
+      "tax_amount": 0.0,
+      "gross_value": 294.0,
+      "tax_rate": "ZW"
+    }
+  ],
+  "summary": {
+    "total_net": 294.0,
+    "vat": 0.0,
+    "total_gross": 294.0
+  },
+  "seller_bank_account": "40 1500 1096 1214 7000 8566 0000",
+  "order_number": null
+}

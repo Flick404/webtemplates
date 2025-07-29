@@ -1,0 +1,33 @@
+{
+  "document_number": "577/16",
+  "issue_date": "2016-02-10",
+  "sale_date": "2016-02-10",
+  "buyer": {
+    "name": "COMEL",
+    "vat_id": "8421042980",
+    "address": "ul. Szewska 11, 72-200 Miastko"
+  },
+  "seller": {
+    "name": "ZAKŁAD USŁUGOWO HANDLOWY Dorota Mazur",
+    "vat_id": "669-126-91-77",
+    "address": "ul. Kolejowa 11, 76-010 Polanów"
+  },
+  "invoice_line_items": [
+    {
+      "name": "Gaz Propan Butan",
+      "quantity": 45.86,
+      "unit_price": 1.85,
+      "net_value": 68.98,
+      "tax_amount": 15.86,
+      "gross_value": 84.84,
+      "tax_rate": "23%"
+    }
+  ],
+  "summary": {
+    "total_net": 68.98,
+    "vat": 15.86,
+    "total_gross": 84.84
+  },
+  "seller_bank_account": "22 1020 2791 0000 7402 0079 8314",
+  "order_number": null
+}

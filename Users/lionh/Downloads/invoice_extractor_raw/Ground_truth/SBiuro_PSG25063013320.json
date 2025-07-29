@@ -1,0 +1,42 @@
+{
+  "document_number": "0204/05/2015",
+  "issue_date": "2015-05-12",
+  "sale_date": "2015-05-12",
+  "buyer": {
+    "name": "COMEL",
+    "vat_id": "8421042980",
+    "address": "Szewska 11, 77-200 Miastko"
+  },
+  "seller": {
+    "name": "ENERGER.PL Piotr Sobolski",
+    "vat_id": "8982054851",
+    "address": "ul. Fryderyka Chopina 18/2, 51-609 Wrocław"
+  },
+  "invoice_line_items": [
+    {
+      "name": "Dostawa - usługa",
+      "quantity": 1,
+      "unit_price": 9.76,
+      "net_value": 9.76,
+      "tax_amount": 2.24,
+      "gross_value": 12.0,
+      "tax_rate": "23%"
+    },
+    {
+      "name": "Zasilacz laptop 20V 4.5A - 5.5*2.5, Kątowa, LED",
+      "quantity": 1,
+      "unit_price": 52.85,
+      "net_value": 52.85,
+      "tax_amount": 12.15,
+      "gross_value": 65.0,
+      "tax_rate": "23%"
+    }
+  ],
+  "summary": {
+    "total_net": 62.61,
+    "vat": 14.39,
+    "total_gross": 77.0
+  },
+  "seller_bank_account": "63114020040000310252586598",
+  "order_number": null
+}

@@ -1,0 +1,42 @@
+{
+  "document_number": "FV 477/6/2017",
+  "issue_date": "2017-06-14",
+  "sale_date": "2017-06-14",
+  "buyer": {
+    "name": "Tomasz Hinz \"COMEL\"",
+    "vat_id": "8421042980",
+    "address": "ul. Szewska 11, 77-200 Miastko"
+  },
+  "seller": {
+    "name": "4IP Sp. z o.o.",
+    "vat_id": "9581666112",
+    "address": "ul. Wiejska 21/5, 81-068 Gdynia"
+  },
+  "invoice_line_items": [
+    {
+      "name": "MRD-QD011 Kabel przyłączeniowy Mairdi QD011 (2.5mm)",
+      "quantity": 1,
+      "unit_price": 38.21,
+      "net_value": 38.21,
+      "tax_amount": 8.79,
+      "gross_value": 47.0,
+      "tax_rate": "23%"
+    },
+    {
+      "name": "transport krajowy - za pobraniem",
+      "quantity": 1,
+      "unit_price": 17.89,
+      "net_value": 17.89,
+      "tax_amount": 4.11,
+      "gross_value": 22.0,
+      "tax_rate": "23%"
+    }
+  ],
+  "summary": {
+    "total_net": 56.1,
+    "vat": 12.9,
+    "total_gross": 69.0
+  },
+  "seller_bank_account": "44195000012006465471030002",
+  "order_number": null
+}

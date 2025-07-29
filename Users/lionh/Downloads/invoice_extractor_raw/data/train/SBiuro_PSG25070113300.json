@@ -1,0 +1,33 @@
+{
+  "document_number": "191050254",
+  "issue_date": "2023-02-20",
+  "sale_date": "2023-02-20",
+  "buyer": {
+    "name": "COMEL TOMASZ HINZ",
+    "vat_id": "8421042980",
+    "address": "Szewska 11, 77-200 Miastko"
+  },
+  "seller": {
+    "name": "SCHENKER SP. Z O.O.",
+    "vat_id": "5270103824",
+    "address": "ul. Żwirki i Wigury 16c, 02-092 Warszawa"
+  },
+  "invoice_line_items": [
+    {
+      "name": "USŁUGA TRANSPORTOWA",
+      "quantity": 1,
+      "unit_price": 440.7,
+      "net_value": 440.7,
+      "tax_amount": 101.36,
+      "gross_value": 542.06,
+      "tax_rate": "23%"
+    }
+  ],
+  "summary": {
+    "total_net": 440.7,
+    "vat": 101.36,
+    "total_gross": 542.06
+  },
+  "seller_bank_account": "86114011240000345094001001",
+  "order_number": "230220-013354"
+}

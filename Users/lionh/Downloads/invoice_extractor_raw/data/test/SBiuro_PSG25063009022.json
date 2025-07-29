@@ -1,0 +1,42 @@
+{
+  "document_number": "457/16",
+  "issue_date": "2016-01-27",
+  "sale_date": "2016-01-27",
+  "buyer": {
+    "name": "COMEL",
+    "vat_id": "8421042980",
+    "address": "SZEWSKA 11, 77-200 Miastko"
+  },
+  "seller": {
+    "name": "BROOKLYN Aleksandra Hamza",
+    "vat_id": "7711357467",
+    "address": "Włodzimierzów, Zielona 1, 97-330 Sulejów"
+  },
+  "invoice_line_items": [
+    {
+      "name": "Mata ochronna z kolcami NA DYWAN 120x120 + GRATIS!",
+      "quantity": 3,
+      "unit_price": 160.0,
+      "net_value": 482.93,
+      "tax_amount": 111.07,
+      "gross_value": 594.0,
+      "tax_rate": "23%"
+    },
+    {
+      "name": "Koszt dostawy",
+      "quantity": 1,
+      "unit_price": 16.0,
+      "net_value": 13.01,
+      "tax_amount": 2.99,
+      "gross_value": 16.0,
+      "tax_rate": "23%"
+    }
+  ],
+  "summary": {
+    "total_net": 495.93,
+    "vat": 114.07,
+    "total_gross": 610.0
+  },
+  "seller_bank_account": "72 1140 2004 0000 3302 3074 4460",
+  "order_number": null
+}

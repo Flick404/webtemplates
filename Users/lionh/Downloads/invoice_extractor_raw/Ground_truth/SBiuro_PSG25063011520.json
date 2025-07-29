@@ -1,0 +1,42 @@
+{
+  "document_number": "4/3/2017",
+  "issue_date": "2017-03-09",
+  "sale_date": "2017-03-09",
+  "buyer": {
+    "name": "Tomasz Hinz \"COMEL\"",
+    "vat_id": "8421042980",
+    "address": "Szewska 11, 77-200 Miastko"
+  },
+  "seller": {
+    "name": "Marcin Kowalik markow-IT",
+    "vat_id": "5591894166",
+    "address": "Gawroniec 45, Gawroniec, 86-122 Bukowiec"
+  },
+  "invoice_line_items": [
+    {
+      "name": "Kabel CAB-SS-6026X",
+      "quantity": 3,
+      "unit_price": 55.0,
+      "net_value": 134.15,
+      "tax_amount": 30.85,
+      "gross_value": 165.0,
+      "tax_rate": "23%"
+    },
+    {
+      "name": "Koszt wysyłki",
+      "quantity": 1,
+      "unit_price": 18.0,
+      "net_value": 14.63,
+      "tax_amount": 3.37,
+      "gross_value": 18.0,
+      "tax_rate": "23%"
+    }
+  ],
+  "summary": {
+    "total_net": 148.78,
+    "vat": 34.22,
+    "total_gross": 183.0
+  },
+  "seller_bank_account": "09 1090 1072 0000 0001 0458 2157",
+  "order_number": null
+}

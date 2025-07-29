@@ -1,0 +1,42 @@
+{
+  "document_number": "FS/013946/01/2023",
+  "issue_date": "2023-01-17",
+  "sale_date": "2023-01-17",
+  "buyer": {
+    "name": "Comel Tomasz Hinz",
+    "vat_id": "PL 8421042980",
+    "address": "Szewska 11, 77-200 Miastko"
+  },
+  "seller": {
+    "name": "IRONPACK SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA",
+    "vat_id": "5252817909",
+    "address": "Twarda 18, 00-105 Warszawa"
+  },
+  "invoice_line_items": [
+    {
+      "name": "ETYKIETY TERMICZNE BIAŁE 50x30 1000 szt",
+      "quantity": 2,
+      "unit_price": 5.69,
+      "net_value": 9.24,
+      "tax_amount": 2.14,
+      "gross_value": 11.38,
+      "tax_rate": "23%"
+    },
+    {
+      "name": "KOSZT WYSYŁKI",
+      "quantity": 1,
+      "unit_price": 11.99,
+      "net_value": 9.76,
+      "tax_amount": 2.23,
+      "gross_value": 11.99,
+      "tax_rate": "23%"
+    }
+  ],
+  "summary": {
+    "total_net": 19.0,
+    "vat": 4.37,
+    "total_gross": 23.37
+  },
+  "seller_bank_account": "61 1140 1153 0000 3179 2000 1001",
+  "order_number": null
+}

@@ -1,0 +1,42 @@
+{
+  "document_number": "23/MAG/2016",
+  "issue_date": "2016-03-18",
+  "sale_date": "2016-03-18",
+  "buyer": {
+    "name": "Comel Tomasz Hinz",
+    "vat_id": "842-104-29-80",
+    "address": "Szewska 11, 77-200 Miastko"
+  },
+  "seller": {
+    "name": "Pomerania Services Group Spółka z ograniczoną odpowiedzialnością",
+    "vat_id": "842-177-13-02",
+    "address": "Koszalińska 22, 77-200 Miastko"
+  },
+  "invoice_line_items": [
+    {
+      "name": "IE-2000-4TS-G-B",
+      "quantity": 1,
+      "unit_price": 2600.0,
+      "net_value": 2600.0,
+      "tax_amount": 598.0,
+      "gross_value": 3198.0,
+      "tax_rate": "23%"
+    },
+    {
+      "name": "PWR-IE50W-AC-IEC",
+      "quantity": 1,
+      "unit_price": 650.0,
+      "net_value": 650.0,
+      "tax_amount": 149.5,
+      "gross_value": 799.5,
+      "tax_rate": "23%"
+    }
+  ],
+  "summary": {
+    "total_net": 3250.0,
+    "vat": 747.5,
+    "total_gross": 3997.5
+  },
+  "seller_bank_account": "601240579011111001058603962",
+  "order_number": null
+}

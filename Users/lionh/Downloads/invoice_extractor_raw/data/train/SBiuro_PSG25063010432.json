@@ -1,0 +1,42 @@
+{
+  "document_number": "5454/2016",
+  "issue_date": "2016-03-07",
+  "sale_date": "2016-03-07",
+  "buyer": {
+    "name": "Comel - Tomasz Hinz",
+    "vat_id": "842-104-29-80",
+    "address": "Szewska 11, 77-200 Miastko"
+  },
+  "seller": {
+    "name": "elektro-hurt.com Garncarek Malwina",
+    "vat_id": "8821903368",
+    "address": "Wańkowicza 15, 55-010 Radwanice"
+  },
+  "invoice_line_items": [
+    {
+      "name": "Legrand Cariva białe gniazdo RTVSAT końcowe 773637",
+      "quantity": 30,
+      "unit_price": 32.93,
+      "net_value": 987.9,
+      "tax_amount": 227.22,
+      "gross_value": 1215.12,
+      "tax_rate": "23%"
+    },
+    {
+      "name": "Koszty przesyłki {kurier DPD} pobranie",
+      "quantity": 1,
+      "unit_price": 19.5,
+      "net_value": 19.5,
+      "tax_amount": 4.49,
+      "gross_value": 23.99,
+      "tax_rate": "23%"
+    }
+  ],
+  "summary": {
+    "total_net": 1007.4,
+    "vat": 231.7,
+    "total_gross": 1239.1
+  },
+  "seller_bank_account": "49114020040000310258168909",
+  "order_number": "ZK 1004/2016"
+}

@@ -1,0 +1,33 @@
+{
+  "document_number": "813/01/PLT/2016",
+  "issue_date": "2016-01-31",
+  "sale_date": "2016-01-31",
+  "buyer": {
+    "name": "TOMASZ HINZ \"COMEL\"",
+    "vat_id": "842-104-29-80",
+    "address": "Szewska 11, 77-200 Miastko"
+  },
+  "seller": {
+    "name": "PayU S.A.",
+    "vat_id": "779-23-08-495",
+    "address": "ul. Grunwaldzka 182, 60-166 Poznań"
+  },
+  "invoice_line_items": [
+    {
+      "name": "Łączna prowizja z tytułu przeprowadzonych transakcji w sklepie: Sklep Comel IT Zwolnienie na podstawie art. 43, ust. 1, pkt 40 Ustawy o VAT",
+      "quantity": 1,
+      "unit_price": 269.0,
+      "net_value": 269.0,
+      "tax_amount": 0.0,
+      "gross_value": 269.0,
+      "tax_rate": "ZW"
+    }
+  ],
+  "summary": {
+    "total_net": 269.0,
+    "vat": 0.0,
+    "total_gross": 269.0
+  },
+  "seller_bank_account": null,
+  "order_number": null
+}

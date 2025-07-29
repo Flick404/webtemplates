@@ -1,0 +1,33 @@
+{
+  "document_number": "FS 474/02/2023",
+  "issue_date": "2023-02-27",
+  "sale_date": "2023-02-27",
+  "buyer": {
+    "name": "Comel Tomasz Hinz",
+    "vat_id": "8421042980",
+    "address": "Szewska 11, 77-200 Miastko"
+  },
+  "seller": {
+    "name": "WEBTA Tomasz Bejm",
+    "vat_id": "5732513670",
+    "address": "ul. Zielona 2a, 42-290 Blachownia"
+  },
+  "invoice_line_items": [
+    {
+      "name": "Mysz Asus WT465 bezprzewodowa",
+      "quantity": 1,
+      "unit_price": 41.3,
+      "net_value": 41.3,
+      "tax_amount": 9.5,
+      "gross_value": 50.8,
+      "tax_rate": "23%"
+    }
+  ],
+  "summary": {
+    "total_net": 41.3,
+    "vat": 9.5,
+    "total_gross": 50.8
+  },
+  "seller_bank_account": "PL07114020040000300246294295",
+  "order_number": null
+}

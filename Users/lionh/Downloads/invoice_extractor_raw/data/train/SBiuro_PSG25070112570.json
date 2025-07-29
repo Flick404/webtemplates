@@ -1,0 +1,42 @@
+{
+  "document_number": "56/12/2022/B",
+  "issue_date": "2022-12-16",
+  "sale_date": "2022-12-16",
+  "buyer": {
+    "name": "COMEL Tomasz Hinz",
+    "vat_id": "842-104-29-80",
+    "address": "Szewska 11, 77-200 Miastko, Polska"
+  },
+  "seller": {
+    "name": "Game Projekt Piotr Sikorski",
+    "vat_id": "956-117-64-22",
+    "address": "Al. Jana Pawła II 6H, 86-105 Świecie"
+  },
+  "invoice_line_items": [
+    {
+      "name": "Pudełka na płyty DVD 10 sztuk czarne BOX",
+      "quantity": 3,
+      "unit_price": 10.56,
+      "net_value": 31.68,
+      "tax_amount": 7.29,
+      "gross_value": 38.97,
+      "tax_rate": "23%"
+    },
+    {
+      "name": "Pudełka na płyty DVD 5 sztuk czarne BOX",
+      "quantity": 1,
+      "unit_price": 5.68,
+      "net_value": 5.68,
+      "tax_amount": 1.31,
+      "gross_value": 6.99,
+      "tax_rate": "23%"
+    }
+  ],
+  "summary": {
+    "total_net": 37.37,
+    "vat": 8.59,
+    "total_gross": 45.96
+  },
+  "seller_bank_account": null,
+  "order_number": null
+}

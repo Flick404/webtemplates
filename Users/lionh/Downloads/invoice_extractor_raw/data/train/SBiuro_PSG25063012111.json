@@ -1,0 +1,33 @@
+{
+  "document_number": "867/MG/03/2017",
+  "issue_date": "2017-03-17",
+  "sale_date": "2017-03-17",
+  "buyer": {
+    "name": "COMEL Tomasz Hinz",
+    "vat_id": "8421042980",
+    "address": "Szewska 11, 77-200 Miastko"
+  },
+  "seller": {
+    "name": "E-SYSTEM Marcin Ficek",
+    "vat_id": "637-199-39-03",
+    "address": "Marszałka Piłsudskiego 68, 32-340 Wolbrom"
+  },
+  "invoice_line_items": [
+    {
+      "name": "BCS-NVR08025ME - 8-kanałowy rejestrator IP",
+      "quantity": 2,
+      "unit_price": 549.45,
+      "net_value": 1098.9,
+      "tax_amount": 252.75,
+      "gross_value": 1351.65,
+      "tax_rate": "23%"
+    }
+  ],
+  "summary": {
+    "total_net": 1098.9,
+    "vat": 252.75,
+    "total_gross": 1351.65
+  },
+  "seller_bank_account": "75 1140 2004 0000 3102 3341 7921",
+  "order_number": "ZK 3702/MG/03/2017"
+}

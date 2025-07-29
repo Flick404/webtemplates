@@ -1,0 +1,42 @@
+{
+  "document_number": "524/6/2017",
+  "issue_date": "2017-06-06",
+  "sale_date": "2017-06-06",
+  "buyer": {
+    "name": "Comel Tomasz Hinz",
+    "vat_id": "8421042980",
+    "address": "ul. Szewska 11, 77-200 Miastko"
+  },
+  "seller": {
+    "name": "LABOR-ASTER H.Gasztold, P.Ludwiczak",
+    "vat_id": "1132158787",
+    "address": "ul. Czechowicka 19, 04-218 Warszawa"
+  },
+  "invoice_line_items": [
+    {
+      "name": "Konwerter ANALOG/MODBUS typ AS 702",
+      "quantity": 6,
+      "unit_price": 640.0,
+      "net_value": 3840.0,
+      "tax_amount": 883.2,
+      "gross_value": 4723.2,
+      "tax_rate": "23%"
+    },
+    {
+      "name": "Koszty transportu",
+      "quantity": 1,
+      "unit_price": 20.0,
+      "net_value": 20.0,
+      "tax_amount": 4.6,
+      "gross_value": 24.6,
+      "tax_rate": "23%"
+    }
+  ],
+  "summary": {
+    "total_net": 3860.0,
+    "vat": 887.8,
+    "total_gross": 4747.8
+  },
+  "seller_bank_account": "93114020040000360234155910",
+  "order_number": "z dnia 25.05.2017"
+}

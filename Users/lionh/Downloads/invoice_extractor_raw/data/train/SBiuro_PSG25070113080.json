@@ -1,0 +1,42 @@
+{
+  "document_number": "814/22/FV",
+  "issue_date": "2022-12-09",
+  "sale_date": "2022-12-09",
+  "buyer": {
+    "name": "Comel Tomasz Hinz",
+    "vat_id": "842-104-29-80",
+    "address": "Szewska 11, 77-200 Miastko"
+  },
+  "seller": {
+    "name": "Techniserv Sp. z o.o. w likwidacji",
+    "vat_id": "573-155-66-19",
+    "address": "Zakopiańska 49, 42-221 Częstochowa"
+  },
+  "invoice_line_items": [
+    {
+      "name": "SWITCH CISCO WS-C3750G-12S-S V14, używany",
+      "quantity": 1,
+      "unit_price": 243.9,
+      "net_value": 243.9,
+      "tax_amount": 56.09,
+      "gross_value": 300.0,
+      "tax_rate": "23%"
+    },
+    {
+      "name": "Pakowanie i transport",
+      "quantity": 1,
+      "unit_price": 10.9,
+      "net_value": 10.9,
+      "tax_amount": 2.52,
+      "gross_value": 13.41,
+      "tax_rate": "23%"
+    }
+  ],
+  "summary": {
+    "total_net": 254.8,
+    "vat": 58.61,
+    "total_gross": 313.41
+  },
+  "seller_bank_account": "22103015820000000812709003",
+  "order_number": null
+}

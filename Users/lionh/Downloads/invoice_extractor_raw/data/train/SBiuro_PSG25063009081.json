@@ -1,0 +1,33 @@
+{
+  "document_number": "00364253/PL/N/2016/01",
+  "issue_date": "2016-01-31",
+  "sale_date": "2016-01-31",
+  "buyer": {
+    "name": "COMEL",
+    "vat_id": "842-104-29-80",
+    "address": "Szewska 11, 77-200 Miastko"
+  },
+  "seller": {
+    "name": "Grupa Allegro Sp. z o.o.",
+    "vat_id": "527-25-25-995",
+    "address": "ul. Grunwaldzka 182, 60-166 Poznań"
+  },
+  "invoice_line_items": [
+    {
+      "name": "Pośrednictwo - Usługi Allegro",
+      "quantity": 1,
+      "unit_price": 1311.24,
+      "net_value": 1311.24,
+      "tax_amount": 301.58,
+      "gross_value": 1612.82,
+      "tax_rate": "23%"
+    }
+  ],
+  "summary": {
+    "total_net": 1311.24,
+    "vat": 301.58,
+    "total_gross": 1612.82
+  },
+  "seller_bank_account": "89 1140 1124 3630 0500 0054 0891",
+  "order_number": null
+}

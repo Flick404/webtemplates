@@ -1,0 +1,33 @@
+{
+  "document_number": "12133/2015",
+  "issue_date": "2015-05-05",
+  "sale_date": "2015-05-05",
+  "buyer": {
+    "name": "Comel Tomasz Hinz",
+    "vat_id": "8421042980",
+    "address": "Szewska 11, 77-200 Miastko"
+  },
+  "seller": {
+    "name": "Call3.pl Sp. z o.o.",
+    "vat_id": "5932505020",
+    "address": "Al. Grunwaldzka 82, 80-244 Gdańsk"
+  },
+  "invoice_line_items": [
+    {
+      "name": "Router Cisco 881-k9",
+      "quantity": 3,
+      "unit_price": 250.0,
+      "net_value": 750.0,
+      "tax_amount": 172.5,
+      "gross_value": 922.5,
+      "tax_rate": "23%"
+    }
+  ],
+  "summary": {
+    "total_net": 750.0,
+    "vat": 172.5,
+    "total_gross": 922.5
+  },
+  "seller_bank_account": "47105017640000002322368941",
+  "order_number": null
+}

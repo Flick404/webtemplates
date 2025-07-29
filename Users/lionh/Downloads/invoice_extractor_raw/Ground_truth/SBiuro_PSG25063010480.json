@@ -1,0 +1,42 @@
+{
+  "document_number": "16/A003",
+  "issue_date": "2016-03-08",
+  "sale_date": "2016-03-08",
+  "buyer": {
+    "name": "TOMASZ HINZ",
+    "vat_id": "PL8421042980",
+    "address": "SZEWSKA 11, 77-200 MIASTKO, POLAND"
+  },
+  "seller": {
+    "name": "BNS Computer, Network & Information Technology e.U",
+    "vat_id": "ATU68111045",
+    "address": "Lützowgasse 12-14/7/A2 7.Stock, 1140 Wien, Austria"
+  },
+  "invoice_line_items": [
+    {
+      "name": "Cisco ASA5505-50-BUN-K9 ASA 5505 50 Users VPN Firewall 512MB Ram",
+      "quantity": 1,
+      "unit_price": 199.95,
+      "net_value": 199.95,
+      "tax_amount": 0.0,
+      "gross_value": 199.95,
+      "tax_rate": "0%"
+    },
+    {
+      "name": "Shipping via: GLS",
+      "quantity": 1,
+      "unit_price": 12.95,
+      "net_value": 12.95,
+      "tax_amount": 0.0,
+      "gross_value": 12.95,
+      "tax_rate": "0%"
+    }
+  ],
+  "summary": {
+    "total_net": 212.9,
+    "vat": 0.0,
+    "total_gross": 212.9
+  },
+  "seller_bank_account": null,
+  "order_number": null
+}

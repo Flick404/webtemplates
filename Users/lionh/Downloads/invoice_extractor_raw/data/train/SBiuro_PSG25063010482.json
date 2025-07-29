@@ -1,0 +1,42 @@
+{
+  "document_number": "887/03/2016",
+  "issue_date": "2016-03-10",
+  "sale_date": "2016-03-10",
+  "buyer": {
+    "name": "COMEL TOMASZ HINZ",
+    "vat_id": "842-104-29-80",
+    "address": "SZEWSKA 11, 77-200 MIASTKO, Polska"
+  },
+  "seller": {
+    "name": "ZOLTA Maciej Żółty",
+    "vat_id": "8172060601",
+    "address": "ul. Cyranowska 115b, 39-300 Mielec, Polska"
+  },
+  "invoice_line_items": [
+    {
+      "name": "Czytnik kodów YHD 5200 Black Wifi",
+      "quantity": 1,
+      "unit_price": 192.49,
+      "net_value": 156.5,
+      "tax_amount": 35.99,
+      "gross_value": 192.49,
+      "tax_rate": "23%"
+    },
+    {
+      "name": "Wysyłka",
+      "quantity": 1,
+      "unit_price": 25.0,
+      "net_value": 20.33,
+      "tax_amount": 4.67,
+      "gross_value": 25.0,
+      "tax_rate": "23%"
+    }
+  ],
+  "summary": {
+    "total_net": 176.82,
+    "vat": 40.67,
+    "total_gross": 217.49
+  },
+  "seller_bank_account": "22 1140 2004 0000 3902 5408 4721",
+  "order_number": null
+}

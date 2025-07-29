@@ -1,0 +1,42 @@
+{
+  "document_number": "FS/353/03/2017",
+  "issue_date": "2017-03-31",
+  "sale_date": "2017-03-31",
+  "buyer": {
+    "name": "Comel Tomasz Hinz",
+    "vat_id": "8421042980",
+    "address": "Szewska 11, 77-200 Miastko"
+  },
+  "seller": {
+    "name": "RIPE.pl, Krzysztof Sieg",
+    "vat_id": "9671170998",
+    "address": "Albatrosowa 17, 85-436 Bydgoszcz"
+  },
+  "invoice_line_items": [
+    {
+      "name": "Cisco 128MB Compact Flash Memory Cards 16-3349-01",
+      "quantity": 15,
+      "unit_price": 13.0,
+      "net_value": 195.0,
+      "tax_amount": 0.0,
+      "gross_value": 195.0,
+      "tax_rate": "23%"
+    },
+    {
+      "name": "transport",
+      "quantity": 1,
+      "unit_price": 15.0,
+      "net_value": 15.0,
+      "tax_amount": 0.0,
+      "gross_value": 15.0,
+      "tax_rate": "23%"
+    }
+  ],
+  "summary": {
+    "total_net": 170.73,
+    "vat": 39.27,
+    "total_gross": 210.0
+  },
+  "seller_bank_account": "06105011391000002327432544",
+  "order_number": null
+}

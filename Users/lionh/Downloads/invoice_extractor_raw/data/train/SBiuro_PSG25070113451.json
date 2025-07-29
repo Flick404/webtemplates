@@ -1,0 +1,33 @@
+{
+  "document_number": "FV/4/004139/01/2023",
+  "issue_date": "2023-01-12",
+  "sale_date": "2023-01-12",
+  "buyer": {
+    "name": "COMEL Tomasz Hinz",
+    "vat_id": "842-104-29-80",
+    "address": "ul. Szewska 11, 77-200 Miastko"
+  },
+  "seller": {
+    "name": "DAGMA Sp. z o.o.",
+    "vat_id": "634-012-60-68",
+    "address": "Pszczyńska 15, 40-478 Katowice"
+  },
+  "invoice_line_items": [
+    {
+      "name": "ESET PROTECT Entry ON-PREM aktualizacja - lic. 10 stan. do 2026-01-13 (przedł.), B2B(2968167) ESET/TSO/EP/ENTRY OP/LIC/R",
+      "quantity": 1,
+      "unit_price": 1484.7,
+      "net_value": 1484.7,
+      "tax_amount": 341.48,
+      "gross_value": 1826.18,
+      "tax_rate": "23%"
+    }
+  ],
+  "summary": {
+    "total_net": 1484.7,
+    "vat": 341.48,
+    "total_gross": 1826.18
+  },
+  "seller_bank_account": "88102023130000340203446267",
+  "order_number": "2023/006743"
+}

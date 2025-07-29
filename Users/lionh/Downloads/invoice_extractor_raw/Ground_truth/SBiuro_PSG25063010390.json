@@ -1,0 +1,33 @@
+{
+  "document_number": "38434/NBJ/2016",
+  "issue_date": "2016-03-01",
+  "sale_date": "2016-03-01",
+  "buyer": {
+    "name": "Comel Tomasz Hinz",
+    "vat_id": "842-104-29-80",
+    "address": "Szewska 11, 77-200 Miastko"
+  },
+  "seller": {
+    "name": "BTCH Natalia Jagodzińska",
+    "vat_id": "584-244-94-53",
+    "address": "Dywizjonu 303 nr 23, 80-462 Gdańsk"
+  },
+  "invoice_line_items": [
+    {
+      "name": "Abonament do Subiekta GT\nNIP użytkownika: 842-000-02-58 Numer licencji: Q85Z4-",
+      "quantity": 1,
+      "unit_price": 129.15,
+      "net_value": 105.0,
+      "tax_amount": 24.15,
+      "gross_value": 129.15,
+      "tax_rate": "23%"
+    }
+  ],
+  "summary": {
+    "total_net": 105.0,
+    "vat": 24.15,
+    "total_gross": 129.15
+  },
+  "seller_bank_account": "91 2130 0004 2001 0377 6424 0001",
+  "order_number": null
+}

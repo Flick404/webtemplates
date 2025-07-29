@@ -1,0 +1,42 @@
+{
+  "document_number": "43111000",
+  "issue_date": "2016-02-10",
+  "sale_date": "2016-02-10",
+  "buyer": {
+    "name": "Tomasz Hinz Comel",
+    "vat_id": "8421042980",
+    "address": "Szewska 11, 77-200 Miastko, Polska"
+  },
+  "seller": {
+    "name": "Eptimo Sp. z o.o. S.K.A.",
+    "vat_id": "5472148020",
+    "address": "Emilii Plater 53, 00-113 Warszawa, Polska"
+  },
+  "invoice_line_items": [
+    {
+      "name": "SG102-24 Compact 24-Port Gigabit Switch",
+      "quantity": 1,
+      "unit_price": 585.63,
+      "net_value": 585.63,
+      "tax_amount": 134.45,
+      "gross_value": 720.32,
+      "tax_rate": "23%"
+    },
+    {
+      "name": "Transport i obsługa",
+      "quantity": 1,
+      "unit_price": 12.0,
+      "net_value": 12.0,
+      "tax_amount": 2.76,
+      "gross_value": 14.76,
+      "tax_rate": "23%"
+    }
+  ],
+  "summary": {
+    "total_net": 597.63,
+    "vat": 137.45,
+    "total_gross": 735.08
+  },
+  "seller_bank_account": "18105000861000002400445785",
+  "order_number": "43211891"
+}

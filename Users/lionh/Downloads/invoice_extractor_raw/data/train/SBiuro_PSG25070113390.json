@@ -1,0 +1,42 @@
+{
+  "document_number": "RAPONIT/22/1/2023",
+  "issue_date": "2023-01-24",
+  "sale_date": "2023-01-24",
+  "buyer": {
+    "name": "Comel Tomasz Hinz",
+    "vat_id": "8421042980",
+    "address": "Szewska 11, 77-200 Miastko, Polska"
+  },
+  "seller": {
+    "name": "RAPONIT PATRYK BZYL",
+    "vat_id": "6222845712",
+    "address": "Dębowa 5, 63-421 Antonin"
+  },
+  "invoice_line_items": [
+    {
+      "name": "Lenovo Battery external 01AV452",
+      "quantity": 1,
+      "unit_price": 442.27,
+      "net_value": 442.27,
+      "tax_amount": 101.72,
+      "gross_value": 543.99,
+      "tax_rate": "23%"
+    },
+    {
+      "name": "Przesyłka Allegro miniKurier24 InPost",
+      "quantity": 1,
+      "unit_price": 8.9,
+      "net_value": 8.9,
+      "tax_amount": 2.05,
+      "gross_value": 10.95,
+      "tax_rate": "23%"
+    }
+  ],
+  "summary": {
+    "total_net": 451.17,
+    "vat": 103.77,
+    "total_gross": 554.94
+  },
+  "seller_bank_account": null,
+  "order_number": null
+}

@@ -1,0 +1,42 @@
+{
+  "document_number": "ZK2023001087",
+  "issue_date": "2023-01-25",
+  "sale_date": "2023-01-23",
+  "buyer": {
+    "name": "COMEL TOMASZ HINZ",
+    "vat_id": "8421042980",
+    "address": "Szewska 11, 77-200 Miastko, Polska"
+  },
+  "seller": {
+    "name": "POLON-ALFA S.A.",
+    "vat_id": "5540311901",
+    "address": "ul. Glinki 155, 85-861 Bydgoszcz, Polska"
+  },
+  "invoice_line_items": [
+    {
+      "name": "AKUMULATOR AKU 12V 28AH MKL (MERAWEX)",
+      "quantity": 4,
+      "unit_price": 378.75,
+      "net_value": 1515.0,
+      "tax_amount": 348.45,
+      "gross_value": 1863.45,
+      "tax_rate": "23%"
+    },
+    {
+      "name": "TRANSPORT - Dostawa zamówienia",
+      "quantity": 1,
+      "unit_price": 50.0,
+      "net_value": 50.0,
+      "tax_amount": 11.5,
+      "gross_value": 61.5,
+      "tax_rate": "23%"
+    }
+  ],
+  "summary": {
+    "total_net": 1565.0,
+    "vat": 359.95,
+    "total_gross": 1924.95
+  },
+  "seller_bank_account": "07160014620008328315427001",
+  "order_number": "K119276"
+}

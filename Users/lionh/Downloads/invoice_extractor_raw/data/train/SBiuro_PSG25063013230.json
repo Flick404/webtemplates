@@ -1,0 +1,42 @@
+{
+  "document_number": "CT20131128",
+  "issue_date": "2015-05-04",
+  "sale_date": "2015-05-04",
+  "buyer": {
+    "name": "Comel Tomasz Hinz",
+    "vat_id": "8421042980",
+    "address": "Szewska 11, Miastko, pomorskie 77200, Poland"
+  },
+  "seller": {
+    "name": "Best Source International LTD",
+    "vat_id": null,
+    "address": "RM 2605 Block A, World Trade Plaza, Fuhong RD Futian, Shenzen, China"
+  },
+  "invoice_line_items": [
+    {
+      "name": "Network card E10G42BFSR",
+      "quantity": 2,
+      "unit_price": 185.0,
+      "net_value": 370.0,
+      "tax_amount": 0.0,
+      "gross_value": 370.0,
+      "tax_rate": "0%"
+    },
+    {
+      "name": "Shipping",
+      "quantity": 1,
+      "unit_price": 18.99,
+      "net_value": 18.99,
+      "tax_amount": 0.0,
+      "gross_value": 18.99,
+      "tax_rate": "0%"
+    }
+  ],
+  "summary": {
+    "total_net": 388.99,
+    "vat": 0.0,
+    "total_gross": 388.99
+  },
+  "seller_bank_account": null,
+  "order_number": null
+}

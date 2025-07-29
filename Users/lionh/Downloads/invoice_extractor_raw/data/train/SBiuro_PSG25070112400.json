@@ -1,0 +1,42 @@
+{
+  "document_number": "FS-1230S/2021/2785",
+  "issue_date": "2021-10-12",
+  "sale_date": "2021-10-12",
+  "buyer": {
+    "name": "Comel",
+    "vat_id": "842-104-29-80",
+    "address": "Szewska 11, 77-200 Miastko"
+  },
+  "seller": {
+    "name": "AAT SYSTEMY BEZPIECZEŃSTWA sp. z o.o.",
+    "vat_id": "951-20-80-868",
+    "address": "Al. Niepodległości 606/610, 81-855 Sopot"
+  },
+  "invoice_line_items": [
+    {
+      "name": "RĘCZNY OSTRZEGACZ P.POŻ. ROP-4001MH (POLON)",
+      "quantity": 10,
+      "unit_price": 193.2,
+      "net_value": 1932.0,
+      "tax_amount": 444.36,
+      "gross_value": 2376.36,
+      "tax_rate": "23%"
+    },
+    {
+      "name": "RAMKA MASKUJĄCA RM-60-R CZERWONA (POLON)",
+      "quantity": 10,
+      "unit_price": 4.2,
+      "net_value": 42.0,
+      "tax_amount": 9.66,
+      "gross_value": 51.66,
+      "tax_rate": "23%"
+    }
+  ],
+  "summary": {
+    "total_net": 1974.0,
+    "vat": 454.02,
+    "total_gross": 2428.02
+  },
+  "seller_bank_account": "19109028510000000136518330",
+  "order_number": "ZS-1230S/2021/2786"
+}

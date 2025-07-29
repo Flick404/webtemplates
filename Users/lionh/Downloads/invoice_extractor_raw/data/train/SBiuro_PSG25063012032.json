@@ -1,0 +1,42 @@
+{
+  "document_number": "FS 35/MAG/2017",
+  "issue_date": "2017-03-15",
+  "sale_date": "2017-03-15",
+  "buyer": {
+    "name": "Comel Tomasz Hinz",
+    "vat_id": "842-104-29-80",
+    "address": "Szewska 11, 77-200 Miastko"
+  },
+  "seller": {
+    "name": "Pomerania Services Group Spółka z ograniczoną odpowiedzialnością",
+    "vat_id": "842-177-13-02",
+    "address": "Koszalińska 22, 77-200 Miastko"
+  },
+  "invoice_line_items": [
+    {
+      "name": "L-ASAS506-TA-1Y",
+      "quantity": 1,
+      "unit_price": 720.0,
+      "net_value": 720.0,
+      "tax_amount": 165.6,
+      "gross_value": 885.6,
+      "tax_rate": "23%"
+    },
+    {
+      "name": "L-AC-PLS-1Y-S1",
+      "quantity": 1,
+      "unit_price": 485.0,
+      "net_value": 485.0,
+      "tax_amount": 111.55,
+      "gross_value": 596.55,
+      "tax_rate": "23%"
+    }
+  ],
+  "summary": {
+    "total_net": 1205.0,
+    "vat": 277.15,
+    "total_gross": 1482.15
+  },
+  "seller_bank_account": "60124057901111001058603962",
+  "order_number": null
+}

@@ -1,0 +1,42 @@
+{
+  "document_number": "3483/05/2015",
+  "issue_date": "2015-05-21",
+  "sale_date": "2015-05-21",
+  "buyer": {
+    "name": "Comel Tomasz Hinz",
+    "vat_id": "8421042980",
+    "address": "Szewska 11, 77-200 Miastko"
+  },
+  "seller": {
+    "name": "xbest.pl Sp. z ograniczoną odpowiedzialnością Spółka komandytowa",
+    "vat_id": "6423181041",
+    "address": "Św. Józefa 141D, 44-200 Rybnik"
+  },
+  "invoice_line_items": [
+    {
+      "name": "SFP Dual OPTEC, 1.25G, MM LC, 550m, TX850",
+      "quantity": 4,
+      "unit_price": 45.93,
+      "net_value": 183.72,
+      "tax_amount": 42.26,
+      "gross_value": 225.98,
+      "tax_rate": "23%"
+    },
+    {
+      "name": "Usługa transportowa UPS STANDARD",
+      "quantity": 1,
+      "unit_price": 16.26,
+      "net_value": 16.26,
+      "tax_amount": 3.74,
+      "gross_value": 20.0,
+      "tax_rate": "23%"
+    }
+  ],
+  "summary": {
+    "total_net": 199.98,
+    "vat": 46.0,
+    "total_gross": 245.98
+  },
+  "seller_bank_account": "74116022020000000238318933",
+  "order_number": null
+}

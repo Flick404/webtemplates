@@ -1,0 +1,33 @@
+{
+  "document_number": "1445/11-2022",
+  "issue_date": "2022-11-30",
+  "sale_date": "2022-11-30",
+  "buyer": {
+    "name": "TOMASZ HINZ \"COMEL\"",
+    "vat_id": "842-104-29-80",
+    "address": "ul. Szewska 11, 77-200 Miastko"
+  },
+  "seller": {
+    "name": "Przedsiębiorstwo Produkcyjno-Handlowo-Usługowe PROMET WIESŁAW SOŁTYS",
+    "vat_id": "9151130018",
+    "address": "Ozorowice Leśna 23, 55-114 Wisznia Mała"
+  },
+  "invoice_line_items": [
+    {
+      "name": "NICE WA11 PODPORA RAMIENIA STAŁA",
+      "quantity": 1,
+      "unit_price": 288.6179,
+      "net_value": 288.62,
+      "tax_amount": 66.38,
+      "gross_value": 355.0,
+      "tax_rate": "23%"
+    }
+  ],
+  "summary": {
+    "total_net": 288.62,
+    "vat": 66.38,
+    "total_gross": 355.0
+  },
+  "seller_bank_account": "231050157510000090909040017",
+  "order_number": null
+}

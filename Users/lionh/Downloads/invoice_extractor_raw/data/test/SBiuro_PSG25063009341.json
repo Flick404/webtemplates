@@ -1,0 +1,33 @@
+{
+  "document_number": "125/2016",
+  "issue_date": "2016-02-12",
+  "sale_date": "2016-02-12",
+  "buyer": {
+    "name": "COMEL – Tomasz Hinz",
+    "vat_id": "842-104-29-80",
+    "address": "Ul. Szewska 11, 77-200 Miastko"
+  },
+  "seller": {
+    "name": "m6 Soft Plus Dariusz Grządkowski",
+    "vat_id": "754-273-66-17",
+    "address": "ul. Chabrów 35/1, 45-221 Opole"
+  },
+  "invoice_line_items": [
+    {
+      "name": "Program AGENT.m6 wersja _NET",
+      "quantity": 1,
+      "unit_price": 840.74,
+      "net_value": 840.74,
+      "tax_amount": 193.37,
+      "gross_value": 1034.11,
+      "tax_rate": "23%"
+    }
+  ],
+  "summary": {
+    "total_net": 840.74,
+    "vat": 193.37,
+    "total_gross": 1034.11
+  },
+  "seller_bank_account": "26114020040000310242323500",
+  "order_number": null
+}

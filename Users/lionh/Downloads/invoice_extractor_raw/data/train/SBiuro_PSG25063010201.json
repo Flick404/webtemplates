@@ -1,0 +1,33 @@
+{
+  "document_number": "FVS/2016.02/00271",
+  "issue_date": "2016-02-23",
+  "sale_date": "2016-02-07",
+  "buyer": {
+    "name": "Comel - Tomasz Hinz",
+    "vat_id": "8421042980",
+    "address": "ul. Szewska 11, 77-200 Miastko"
+  },
+  "seller": {
+    "name": "Dystrybucja Polska Sp. z o.o.",
+    "vat_id": "7772611902",
+    "address": "ul. Żmigrodzka 41/49, 60-171 Poznań"
+  },
+  "invoice_line_items": [
+    {
+      "name": "Dyst.mat.rekl. 04-07.02.2016",
+      "quantity": 5000,
+      "unit_price": 0.029,
+      "net_value": 145.0,
+      "tax_amount": 33.35,
+      "gross_value": 178.35,
+      "tax_rate": "23%"
+    }
+  ],
+  "summary": {
+    "total_net": 145.0,
+    "vat": 33.35,
+    "total_gross": 178.35
+  },
+  "seller_bank_account": "07150010541210500886140000",
+  "order_number": null
+}

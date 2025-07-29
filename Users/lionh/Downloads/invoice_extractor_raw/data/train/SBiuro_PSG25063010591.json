@@ -1,0 +1,33 @@
+{
+  "document_number": "FS-1230/2016/1084",
+  "issue_date": "2016-03-14",
+  "sale_date": "2016-03-14",
+  "buyer": {
+    "name": "Comel",
+    "vat_id": "8421042980",
+    "address": "Szewska 11, 77-200 Miastko"
+  },
+  "seller": {
+    "name": "AAT HOLDING S.A.",
+    "vat_id": "525-23-98-192",
+    "address": "02-801 Warszawa, ul. Puławska 431, Oddział Sopot, Al. Niepodległości 606/610, 81-855 Sopot"
+  },
+  "invoice_line_items": [
+    {
+      "name": "RADIOLINIA RA100 (2-KAN/2-PIL) 100.M KLASA-C (EBS)",
+      "quantity": 2,
+      "unit_price": 89.0,
+      "net_value": 138.0,
+      "tax_amount": 31.74,
+      "gross_value": 169.74,
+      "tax_rate": "23%"
+    }
+  ],
+  "summary": {
+    "total_net": 138.0,
+    "vat": 31.74,
+    "total_gross": 169.74
+  },
+  "seller_bank_account": "10 1440 1101 0000 0000 0917 7019",
+  "order_number": "ZS-1230/2016/1170"
+}
