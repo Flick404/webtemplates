@@ -7,5 +7,5 @@ NODE_ENV = "production"
 cmds = ["npm run build"]
 
 [start]
-cmd = "npx serve -s build -l tcp://0.0.0.0:${PORT:-3000}"
+cmd = "npx serve -s build --listen $PORT"
 
